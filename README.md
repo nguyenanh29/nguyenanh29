@@ -16,7 +16,7 @@ Surface-level isn’t my style. Whether it’s technology, music, or life itself
 
 ---
 
-## 🌐 Currently Orbiting: Nexus
+## 🌐 Currently Orbiting: Nexus [nexus-cli](https://github.com/nexus-xyz/nexus-cli)
 
 Right now, I’m in a phase of convergence—a nexus of ideas, passions, and new beginnings. Where will this lead? Let’s find out together.
 
