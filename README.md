@@ -1,4 +1,4 @@
-# Welcome to My Nexus
+# Welcome to My Home
 
 Hey there! 👋 I’m embarking on a journey that’s a little unconventional, a little late (or so they say), but entirely mine. Here’s a glimpse into who I am and where I’m headed:
 
